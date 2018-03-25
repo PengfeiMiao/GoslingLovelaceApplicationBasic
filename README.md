@@ -1,2 +1,2 @@
 # GoslingLovelaceApplicationBasic
-![Alt Text](https://github.com/PengfeiMiao/GoslingLovelaceApplicationBasic/part1_demo.gif)
+![gif](https://github.com/PengfeiMiao/GoslingLovelaceApplicationBasic/part1_demo.gif)
